@@ -1,0 +1,14 @@
+{
+  "name": "expense_assistant",
+  "version": "1.0.0",
+  "description": "An Amazon Alexa skill that keeps track of your expenses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aansh Shah",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^2.3.4"
+  }
+}
